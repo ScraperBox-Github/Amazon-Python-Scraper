@@ -16,4 +16,4 @@ Run the program
 python3 scraper.py
 ````
 
-See [this blog post](https://scraperbox.com/blog/getting-started) for a step-by-step tutorial.
+See [this blog post](https://scraperbox.com/blog/getting-started-with-scraperbox) for a step-by-step tutorial.
